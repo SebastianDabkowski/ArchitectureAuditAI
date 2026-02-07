@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArchitectureAuditAI/ArchitectureAuditAI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ArchitectureAuditAI.Tests/ArchitectureAuditAI.Tests.csproj" />
+  </Folder>
+</Solution>
